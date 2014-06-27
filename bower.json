@@ -1,0 +1,10 @@
+{
+  "name": "triggerme",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.0.3",
+    "jquery": "~1.11.0",
+    "jquery-ui": "~1.10.4"
+  },
+  "devDependencies": {}
+}
