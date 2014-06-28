@@ -9,7 +9,7 @@ jQueryAutocompletePlus is a simple plugin which gives your input feild a Faceboo
  * or whatever you can imagine of...</li>
 
 
-Try it [here](http://www.markdownviewer.com/)
+Try it [here](http://practo.github.io/jquery-autocomplete-plus/)
 
 Steps to use: 
 
