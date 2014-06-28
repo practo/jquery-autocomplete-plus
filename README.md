@@ -1,4 +1,0 @@
-trigerred-autocomplete
-======================
-
-Auto Complete
