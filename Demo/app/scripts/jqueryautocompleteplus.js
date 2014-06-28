@@ -1,4 +1,4 @@
-$.fn.triggeredAutocomplete = function(data){
+$.fn.jqueryautocompleteplus = function(data){
 
 	var self = this['selector'];
 
